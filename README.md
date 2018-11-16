@@ -1,6 +1,6 @@
 # atlas-release-notes
 
-This is a static html page containing all the release notes. The Githut Page is automatically deployed and updated through this [link](https://ebi-gene-expression-group.github.io/atlas-release-notes/).
+This is a static html page containing all the release notes. The GitHub Page is automatically deployed and updated through this [link](https://ebi-gene-expression-group.github.io/atlas-release-notes/).
 
 ## Post new release note
 Curators need to upload a markdown file with the name formated as *Year-Month-Day-Note* under *_posts* directory.
